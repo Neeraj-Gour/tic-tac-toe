@@ -1,16 +1,22 @@
-# tic_tac_toe
+# 🏆 Tic-Tac-Toe 🎮  
 
-A new Flutter project.
+A simple yet elegant **Tic-Tac-Toe** game built with **Flutter**, featuring:  
+✅ **Light & Dark Theme Support** 🌗  
+✅ **State Management with Provider** 🏗️  
+✅ **Smooth & Responsive UI** 📱  
 
-## Getting Started
+## ✨ Features  
+- Play against a friend in a classic **Tic-Tac-Toe** match.  
+- Switch between **Light & Dark mode** for a personalized experience.  
+- Uses **Provider** for efficient and scalable state management.  
+- Clean UI with smooth animations.  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used  
+- **Flutter** (Dart)  
+- **Provider** for state management  
+- **Material Design** for a modern UI  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Neeraj-Gour/tic-tac-toe.git
