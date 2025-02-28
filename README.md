@@ -20,3 +20,12 @@ A simple yet elegant **Tic-Tac-Toe** game built with **Flutter**, featuring:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Neeraj-Gour/tic-tac-toe.git
+
+   ## 📸 Screenshots
+
+### Light Mode 🌞
+![Light Mode]([assets/screenshots/light_mode.png](https://drive.google.com/file/d/1wcQ-0StfMnPgsmVO4yq0afzRJxtIlwDb/view?usp=drivesdk)
+
+### Dark Mode 🌙
+![Dark Mode]([assets/screenshots/dark_mode.png](https://drive.google.com/file/d/1wk17mGfS8neuP7wxHjeQZutMYHmdf0Lu/view?usp=drivesdk)
+
